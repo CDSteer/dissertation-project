@@ -1,0 +1,67 @@
+    
+//    if (LDRreadings[3]>900){
+//        Serial.println("on LDR");
+//        playcomplete(jazzsounds[0]);
+//    } else if (LDRreadings[3]>600){
+//        Serial.println("LDR strong");
+//        playcomplete(jazzsounds[1]);
+//    } else if (LDRreadings[3]>350 && LDRreadings[3]<600){
+//        Serial.println("LDR weak");
+//        playcomplete(jazzsounds[2]);
+//    } else if (LDRreadings[3]>110 && LDRreadings[3]<350){
+//        Serial.println("off LDR");
+//        playcomplete(jazzsounds[3]);
+//    }else{
+//        Serial.println("light off");
+//    }
+//    
+//    ldrread();
+//    if (LDRreadings[2]>900){
+//        Serial.println("on LDR");
+//        playcomplete(jazzsounds[4]);
+//    } else if (LDRreadings[2]>600){
+//        Serial.println("LDR strong");
+//        playcomplete(jazzsounds[5]);
+//    } else if (LDRreadings[2]>350 && LDRreadings[2]<600){
+//        Serial.println("LDR weak");
+//        playcomplete(jazzsounds[6]);
+//    } else if (LDRreadings[2]>110 && LDRreadings[2]<350){
+//        Serial.println("off LDR");
+//        playcomplete(jazzsounds[7]);
+//    }else{
+//        Serial.println("light off");
+//    }
+//    
+//    ldrread();
+//    if (LDRreadings[1]>900){
+//        Serial.println("on LDR");
+//        playcomplete(jazzsounds[0]);
+//    } else if (LDRreadings[1]>600){
+//        Serial.println("LDR strong");
+//        playcomplete(jazzsounds[1]);
+//    } else if (LDRreadings[1]>350 && LDRreadings[1]<600){
+//        Serial.println("LDR weak");
+//        playcomplete(jazzsounds[2]);
+//    } else if (LDRreadings[1]>110 && LDRreadings[1]<350){
+//        Serial.println("off LDR");
+//        playcomplete(jazzsounds[3]);
+//    }else{
+//        Serial.println("light off");
+//    }
+//    
+//    ldrread();
+//    if (LDRreadings[0]>900){
+//        Serial.println("on LDR");
+//        playcomplete(jazzsounds[4]);
+//    } else if (LDRreadings[0]>600){
+//        Serial.println("LDR strong");
+//        playcomplete(jazzsounds[5]);
+//    } else if (LDRreadings[0]>350 && LDRreadings[0]<600){
+//        Serial.println("LDR weak");
+//        playcomplete(jazzsounds[6]);
+//    } else if (LDRreadings[0]>110 && LDRreadings[0]<350){
+//        Serial.println("off LDR");
+//        playcomplete(jazzsounds[7]);
+//    }else{
+//        Serial.println("light off");
+//    }
